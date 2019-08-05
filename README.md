@@ -9,10 +9,6 @@
 
 5. json文件不能直接打开，需要用到文本编辑器，本人用的是VScode
 --------------------- 
-作者：技术学者凯文 
-来源：CSDN 
-原文：https://blog.csdn.net/daxiazouyizou/article/details/79743832 
-版权声明：本文为博主原创文章，转载请附上博文链接！
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
