@@ -1,10 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App, {HelloWorld} from './App';
 import * as serviceWorker from './serviceWorker';
+import {Clock} from "./clock/clock";
+import {Counter} from "./counter/counter";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Clock />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

@@ -1,0 +1,42 @@
+.clock-style {
+    width: 400px;
+    height: 400px;
+    color: #fbbf50;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 280px;
+    border-radius: 200px;
+    background-color: darkslateblue;
+    transition: width 2s, height 2s;
+    position: relative;
+
+}
+
+.clock-center {
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    border-radius: 20px;
+    background-color: gray;
+    border-color: aliceblue;
+}
+
+.line {
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    margin-left: -3px;
+    width: 6px;
+    height: 200px;
+    background-color: gray;
+}
+
+/*
+.clock-style:hover {
+    transform: rotate(30deg);
+}*/

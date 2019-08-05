@@ -1,3 +1,19 @@
+## 项目结构
+1. node_modules用于存放项目的依赖包，也就是构建这个React项目可能会用到的工具，
+
+2. public文件夹中是 index.html存放目录，也就是React根页面的所在地
+
+3. src中用于存放js文件，也就是项目开发中的主要区域
+
+4. package.json用于记录项目信息，以及外部依赖包的导入信息等
+
+5. json文件不能直接打开，需要用到文本编辑器，本人用的是VScode
+--------------------- 
+作者：技术学者凯文 
+来源：CSDN 
+原文：https://blog.csdn.net/daxiazouyizou/article/details/79743832 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
